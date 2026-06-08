@@ -1,7 +1,7 @@
 
 let hidden = false;
 
-card = document.getElementsByClassName("card").item(0)
+const card = document.getElementsByClassName("card").item(0)
 
 console.log(card)
 
